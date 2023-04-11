@@ -1,4 +1,6 @@
 ## Olá me chamo Bruno Miranda!
+- 💻 Atualmente estou trabalhando como BackEnd em projetos de desenvolvimento Java.
+- 📚 Estou estudando SpringBoot,Angular e estudando inglês.
 
 
 
