@@ -1,4 +1,4 @@
-## Olá me chamo Bruno, sou estudante e programador!
+## Olá me chamo Bruno Miranda!
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoDevMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -9,6 +9,10 @@
 
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Bru-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Bru-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Bru-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Bru-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Bru-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  
 
