@@ -22,7 +22,7 @@ Arquitetura de microsserviços
 Testes de software
 Metodologias de desenvolvimento ágil
 
-Certificações:
+*Certificações:*
 
 Microsoft Azure Fundamentals
 Arquitetura pela Capgemini
