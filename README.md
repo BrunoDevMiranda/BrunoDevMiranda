@@ -1,8 +1,34 @@
-## Olá me chamo Bruno Miranda!
-- 💻 Atualmente estou trabalhando como Quality Assurance.
-- Responsável pela qualidade dos softwares desenvolvidos pela Squad onde eu atuo
-- 📚 Estou estudando SpringBoot,Angular e estudando inglês.
+Experiência Profissional:
 
+Desenvolvedor Java (Atual)
+Foco em Spring Boot e arquitetura de microsserviços
+Responsável pela qualidade dos softwares desenvolvidos pela equipe
+Quality Assurance (Anterior)
+Experiência em garantir a qualidade de softwares
+Colaborou com a equipe de desenvolvimento para entregar produtos de alta qualidade
+
+Formação Acadêmica:
+
+Pós-graduação em Arquitetura de Software (Em andamento)
+Pós-graduação em Inteligência Artificial (Em andamento)
+Graduação em Análise e Desenvolvimento de Sistemas (Concluído)
+
+Habilidades Técnicas:
+
+Spring Boot
+Angular
+Java
+Arquitetura de microsserviços
+Testes de software
+Metodologias de desenvolvimento ágil
+
+Certificações:
+
+Microsoft Azure Fundamentals
+Arquitetura pela Capgemini
+Idiomas:
+
+Inglês (Em estudo)
 
 
   <div>
